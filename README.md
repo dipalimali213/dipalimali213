@@ -1,43 +1,63 @@
-# Hi, I'm Dipali Mali 👋  
+# Hi, I'm Dipali Mali 👋
 
-🎓 **Final-year Computer Engineering student** (Honors in Data Science)  
-📍 R. C. Patel Institute of Technology  
-💻 Aspiring **Software Engineer / Data Scientist**
+🎓 **Final Year Computer Science & Engineering Student**  
+📊 **Honors in Data Science**  
+🏫 R. C. Patel Institute of Technology  
+💼 Aspiring **Software Engineer | Data Scientist**
+
+---
 
 ## 🔹 About Me
-I am a motivated Computer Engineering student with a strong interest in **Data Science, Machine Learning, and Backend Development**.  
-I enjoy solving real-world problems through efficient algorithms and scalable software solutions.
+I am a final-year Computer Science student with a strong foundation in **Data Structures, Algorithms, Database Systems, and Object-Oriented Programming**.  
+I am passionate about applying **Data Science and Machine Learning** techniques to solve real-world problems and building reliable, scalable software solutions.
+
+---
 
 ## 🔹 Technical Skills
-- **Programming Languages:** Java, Python, C  
+- **Languages:** Java, Python, C  
 - **Databases:** SQL, MySQL  
-- **Core CS:** Data Structures & Algorithms, OOP, DBMS  
-- **Data Science:** Machine Learning basics, Data Analysis  
-- **Tools & Platforms:** Git, GitHub, Jupyter Notebook  
+- **Core Concepts:** DSA, OOP, DBMS, OS (Basics)  
+- **Data Science:** Machine Learning fundamentals, Data Analysis  
+- **Tools:** Git, GitHub, Jupyter Notebook  
 
-## 🔹 Projects
-- **SAR Image Colourization using Deep Learning**  
-  Implemented a deep learning-based U-Net architecture to colorize SAR images for enhanced interpretation.  
+---
 
+## 🔹 Major Academic Project
+### **SAR Image Colourization for Comprehensive Insight Using Deep Learning**
+- Designed and implemented a **U-Net based deep learning model** for colorizing SAR images  
+- Improved interpretability of SAR imagery used in remote sensing applications  
+- Technologies: Python, TensorFlow, Deep Learning, Jupyter Notebook  
+
+---
+
+## 🔹 Other Projects
 - **DSA with Java**  
-  Well-structured implementations of core data structures and algorithms for interview preparation.  
+  Implementation of core data structures and algorithms for placement preparation  
 
 - **Banking System Database (SQL)**  
-  Designed and implemented a normalized relational database with queries and constraints.
+  Designed a normalized relational database with constraints, queries, and procedures  
 
-## 🔹 Currently Learning
-- Advanced Java for placements  
-- Machine Learning concepts  
-- SQL optimization & query design  
+- **C Programming Projects**  
+  Programs covering fundamentals and problem-solving techniques  
 
-## 🔹 Achievements & Certifications
-- NTSE Certificate Holder  
+---
+
+## 🔹 Certifications & Achievements
+- National Talent Search Examination (NTSE)  
 - AWS Cloud Certification  
 - Google Cloud Study Jam  
 - Smart India Hackathon – Participation  
-- Cisco Networking Basics  
+- Cisco Networking Academy – Networking Basics  
 - TATA Forage – Data Visualization  
+
+---
+
+## 🔹 Currently Preparing For
+- Software Engineer / Data Analyst roles  
+- Technical Interviews (DSA + SQL + Java)  
+
+---
 
 ## 🔹 Contact
 📧 Email: dipalimali213@gmail.com  
-🔗 GitHub: https://github.com/dipalimali213
+🔗 GitHub: https://github.com/dipalimali213  
