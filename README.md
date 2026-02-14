@@ -1,9 +1,19 @@
-# Dipali Mali
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Dipali+Mali;Data+Science+Student;Java+Developer;Machine+Learning+Enthusiast;Open+to+Full-Time+Opportunities" />
+</p>
 
-💼 Open to Full-Time Roles | Data Analyst | Java Developer  
-🎓 B.Tech Computer Science & Engineering (Data Science) | CGPA: 8.28  
-📍 Shirpur, Maharashtra  
-🏆 3000+ Problems Solved on CodeChef  
+<h1 align="center">Dipali Mali</h1>
+
+<p align="center">
+💼 Open to Full-Time Roles | Data Analyst | Java Developer <br>
+🎓 B.Tech Computer Science & Engineering (Data Science) | CGPA: 8.28 <br>
+📍 Shirpur, Maharashtra <br>
+🏆 3000+ Coding Problems Solved on CodeChef
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dipalimali213&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
@@ -12,17 +22,27 @@
 Analytical and detail-oriented Computer Science (Data Science) student with strong foundation in Java, SQL, Python and DBMS.
 
 Hands-on industry exposure through:
-- Wipro TalentNext (Database Expert)
-- Infosys Pragati (Data Science Trainee)
-- Java Full Stack Internship (R3 System)
+- **Wipro TalentNext – Database Expert**
+- **Infosys Pragati – Data Science Trainee**
+- **Java Full Stack Internship – R3 System**
 
 Passionate about building scalable software systems and intelligent data-driven solutions.
 
 ---
 
+## 📊 Data Analyst Focus
+
+✔ Advanced SQL & Query Optimization  
+✔ Data Cleaning & Transformation (Pandas, NumPy)  
+✔ Data Visualization (Tableau)  
+✔ Statistical Analysis & Machine Learning  
+✔ Business-Oriented Problem Solving  
+
+---
+
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -30,6 +50,7 @@ Passionate about building scalable software systems and intelligent data-driven 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PLSQL-336791?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🤖 Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -75,7 +96,7 @@ Passionate about building scalable software systems and intelligent data-driven 
 ## 🔥 Highlight Projects
 
 ### 🎨 SAAR – Image Colorization System (92% Accuracy)
-Deep learning CNN-based model for grayscale image colorization using TensorFlow & OpenCV.
+CNN-based deep learning model for grayscale image colorization using TensorFlow & OpenCV.
 
 ### 🔥 Fire Detection System
 Real-time computer vision system for hazard detection using deep learning.
@@ -98,11 +119,20 @@ Structured SQL-based relational database system demonstrating DBMS concepts.
 
 ## 📊 GitHub Analytics
 
-![Dipali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipalimali213&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dipalimali213&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipalimali213&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipalimali213&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dipalimali213&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dipalimali213&theme=tokyonight&hide_border=true)
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/dipalimali213/dipalimali213/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
