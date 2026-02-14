@@ -130,11 +130,7 @@ Structured SQL-based relational database system demonstrating DBMS concepts.
 
 ---
 
-## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/dipalimali213/dipalimali213/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Connect With Me
 
