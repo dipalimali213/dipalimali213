@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Dipali+Mali;Data+Analyst+%7C+Java+Backend+Developer;Machine+Learning+Engineer;Building+Scalable+Data-Driven+Systems;Open+to+Full-Time+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Dipali+Mali;Data+Analyst+%7C+Java+Backend+Engineer;Machine+Learning+Enthusiast;Building+Scalable+Data-Driven+Systems;Open+to+Full-Time+Opportunities" />
 </p>
 
 <h1 align="center">Dipali Mali</h1>
 
 <p align="center">
-💼 Open to Full-Time Roles | Data Analytics | Java Backend Engineering <br>
+💼 Open to Full-Time Roles | Data Analytics | Java Backend Development <br>
 🎓 B.Tech Computer Science (Data Science) | CGPA: 8.28 <br>
 📍 Maharashtra, India <br>
 🏆 3000+ Coding Problems Solved
@@ -17,54 +17,60 @@
 
 ---
 
-# 👩‍💼 Professional Positioning
+# 👩‍💼 Professional Profile
 
-I design and develop:
+Results-driven Computer Science Engineer specializing in:
 
-📊 Data-driven analytical systems  
-⚙ Scalable backend architectures  
-🤖 AI-powered intelligent applications  
+- 📊 Data Analytics & Business Intelligence  
+- ⚙ Scalable Java Backend Systems  
+- 🤖 Applied Machine Learning & AI Solutions  
 
-Strong foundation in SQL optimization, Java backend development, and applied machine learning.
+Strong foundation in database optimization, backend architecture design, and intelligent data processing.
+
+Focused on delivering clean, efficient, and production-ready solutions.
 
 ---
 
-# 🎯 Core Expertise
+# 🎯 Core Competencies
 
-## 📊 Data Analyst Expertise
+## 📊 Data Analytics & Intelligence
 
 ✔ Advanced SQL & Query Optimization  
-✔ Data Cleaning & ETL Pipelines  
-✔ Statistical Analysis & ML Models  
+✔ Data Cleaning, Transformation & ETL  
+✔ Statistical Analysis & Predictive Modeling  
 ✔ Tableau Dashboard Development  
-✔ Business Intelligence Reporting  
-✔ KPI & Performance Analytics  
+✔ KPI & Business Performance Analysis  
+✔ Insight-Driven Decision Support  
 
 ---
 
-## 💻 Java Backend Expertise
+## 💻 Java Backend Engineering
 
 ✔ Object-Oriented Programming (OOP)  
 ✔ Spring MVC Architecture  
-✔ REST API Development  
-✔ Database Schema Design  
-✔ JDBC Integration  
+✔ RESTful API Development  
+✔ JDBC & Database Integration  
+✔ Scalable MVC Application Design  
 ✔ Backend Performance Optimization  
 
 ---
 
-# 🛠 Technology Stack
+# 🛠 Technical Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🗄 Databases
+---
+
+### 🗄 Databases & Querying
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 🤖 AI & Analytics
+---
+
+### 🤖 Data Science & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -75,20 +81,38 @@ Strong foundation in SQL optimization, Java backend development, and applied mac
 # 🚀 Featured Projects
 
 ### 🎨 SAR Image Colorization (Deep Learning)
-CNN-based grayscale-to-color transformation achieving 92% efficiency.
+Developed a CNN-based model for grayscale-to-color transformation, improving image interpretability for remote sensing analysis.
 
-### 🔥 Real-Time Fire Detection
-AI-based real-time hazard detection system using computer vision.
+### 🔥 Real-Time Fire Detection System
+Designed an AI-based computer vision system for real-time hazard detection using OpenCV.
 
-### 👵 SeniorCare – Management System
-Full-stack MVC-based web application with authentication & scheduling.
+### 👵 SeniorCare – Elderly Care Management System
+Built a full-stack MVC-based web application with authentication, appointment scheduling, and database integration.
 
 ### 🏦 Banking System Database
-Normalized relational schema with stored procedures & DB optimization.
+Implemented a normalized relational database system demonstrating stored procedures, indexing, and schema optimization.
 
 ---
 
-# 📊 GitHub Performance
+# 💼 Professional Experience
+
+### 🏢 Wipro – TalentNext | Database Expert
+- Advanced SQL & PL/SQL exposure  
+- Enterprise-level RDBMS handling  
+- Query tuning & optimization  
+
+### 🏢 Infosys Pragati | Data Science Trainee
+- Applied ML algorithms to business problems  
+- Built analytical pipelines using Pandas & Scikit-learn  
+- Statistical modeling & evaluation  
+
+### 🏢 R3 System | Java Full Stack Intern
+- Developed scalable MVC-based backend systems  
+- Implemented database-integrated applications  
+
+---
+
+# 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dipalimali213&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -104,15 +128,16 @@ Normalized relational schema with stored procedures & DB optimization.
 
 ---
 
-# 🐍 Contribution Graph
+# 🏆 Achievements
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dipalimali213/dipalimali213/output/github-contribution-grid-snake-dark.svg" />
-</p>
+- 🥇 3000+ Coding Problems Solved  
+- 📜 Professional Certification Exposure  
+- 🇯🇵 JLPT N5 Certified  
+- ☁ Cloud & AI Learning Track  
 
 ---
 
-# 📫 Connect
+# 📫 Connect With Me
 
 📧 dipalimali213@gmail.com  
 🔗 LinkedIn: linkedin.com/in/dipali-mali-260974262  
@@ -121,5 +146,5 @@ Normalized relational schema with stored procedures & DB optimization.
 ---
 
 <p align="center">
-⭐ Discipline • Consistency • Continuous Growth
+Consistency • Discipline • Growth Mindset • Continuous Learning
 </p>
