@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Dipali+Mali;Data+Science+Student;Java+Developer;Machine+Learning+Enthusiast;Open+to+Full-Time+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Dipali+Mali;Data+Analyst+%7C+Java+Backend+Developer;Machine+Learning+Engineer;Building+Scalable+Data-Driven+Systems;Open+to+Full-Time+Opportunities" />
 </p>
 
 <h1 align="center">Dipali Mali</h1>
 
 <p align="center">
-💼 Open to Full-Time Roles | Data Analyst | Java Developer <br>
-🎓 B.Tech Computer Science & Engineering (Data Science) | CGPA: 8.28 <br>
-📍 Shirpur, Maharashtra <br>
-🏆 3000+ Coding Problems Solved on CodeChef
+💼 Open to Full-Time Roles | Data Analytics | Java Backend Engineering <br>
+🎓 B.Tech Computer Science (Data Science) | CGPA: 8.28 <br>
+📍 Maharashtra, India <br>
+🏆 3000+ Coding Problems Solved
 </p>
 
 <p align="center">
@@ -17,32 +17,45 @@
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💼 Professional Positioning
 
-Analytical and detail-oriented Computer Science (Data Science) student with strong foundation in Java, SQL, Python and DBMS.
+I design and develop:
 
-Hands-on industry exposure through:
-- **Wipro TalentNext – Database Expert**
-- **Infosys Pragati – Data Science Trainee**
-- **Java Full Stack Internship – R3 System**
+📊 Data-driven analytical systems  
+⚙ Scalable backend architectures  
+🤖 AI-powered intelligent applications  
 
-Passionate about building scalable software systems and intelligent data-driven solutions.
+Strong foundation in SQL optimization, Java backend development, and applied machine learning.
 
 ---
 
-## 📊 Data Analyst Focus
+# 🎯 Core Expertise
+
+## 📊 Data Analyst Expertise
 
 ✔ Advanced SQL & Query Optimization  
-✔ Data Cleaning & Transformation (Pandas, NumPy)  
-✔ Data Visualization (Tableau)  
-✔ Statistical Analysis & Machine Learning  
-✔ Business-Oriented Problem Solving  
+✔ Data Cleaning & ETL Pipelines  
+✔ Statistical Analysis & ML Models  
+✔ Tableau Dashboard Development  
+✔ Business Intelligence Reporting  
+✔ KPI & Performance Analytics  
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Java Backend Expertise
 
-### 💻 Programming
+✔ Object-Oriented Programming (OOP)  
+✔ Spring MVC Architecture  
+✔ REST API Development  
+✔ Database Schema Design  
+✔ JDBC Integration  
+✔ Backend Performance Optimization  
+
+---
+
+# 🛠 Technology Stack
+
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -50,76 +63,40 @@ Passionate about building scalable software systems and intelligent data-driven 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PLSQL](https://img.shields.io/badge/PLSQL-336791?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🤖 Machine Learning & Data Science
+### 🤖 AI & Analytics
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🌐 Web Development
-![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
-## 💼 Professional Experience
+# 🚀 Featured Projects
 
-### 🏢 Wipro – TalentNext | Database Expert
-- Advanced SQL, PL/SQL & RDBMS training
-- Query optimization & performance tuning
-- Enterprise-level database exposure
+### 🎨 SAR Image Colorization (Deep Learning)
+CNN-based grayscale-to-color transformation achieving 92% efficiency.
 
-### 🏢 Infosys Pragati | Data Science Trainee
-- Data Analysis, Statistics & Machine Learning
-- Built analytical solutions using Pandas, NumPy & Scikit-learn
-- Worked on business-oriented problem statements
+### 🔥 Real-Time Fire Detection
+AI-based real-time hazard detection system using computer vision.
 
-### 🏢 R3 System | Java Full Stack Intern
-- Backend development using Java & Spring MVC
-- MVC-based scalable web application architecture
+### 👵 SeniorCare – Management System
+Full-stack MVC-based web application with authentication & scheduling.
+
+### 🏦 Banking System Database
+Normalized relational schema with stored procedures & DB optimization.
 
 ---
 
-## 🔥 Highlight Projects
+# 📊 GitHub Performance
 
-### 🎨 SAAR – Image Colorization System (92% Accuracy)
-CNN-based deep learning model for grayscale image colorization using TensorFlow & OpenCV.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dipalimali213&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-### 🔥 Fire Detection System
-Real-time computer vision system for hazard detection using deep learning.
-
-### 👵 SeniorCare – Elderly Care Management System
-MVC-based full stack web application with authentication & appointment management.
-
-### 🗄 Banking System Database
-Structured SQL-based relational database system demonstrating DBMS concepts.
-
----
-
-## 🏆 Achievements & Certifications
-
-- 3000+ Coding Problems Solved on CodeChef
-- Zensar ESD Training Certification
-- JLPT N5 Certified
-
----
-
-## 📊 GitHub Analytics
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipalimali213&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dipalimali213&theme=tokyonight&hide_border=true" />
@@ -127,14 +104,22 @@ Structured SQL-based relational database system demonstrating DBMS concepts.
 
 ---
 
+# 🐍 Contribution Graph
 
-
-## 📫 Connect With Me
-
-📧 dipalimali213@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/dipali-mali-260974262  
-💻 CodeChef: https://www.codechef.com/users/dipalimali2103  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dipalimali213/dipalimali213/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-⭐ Consistency • Discipline • Continuous Learning
+# 📫 Connect
+
+📧 dipalimali213@gmail.com  
+🔗 LinkedIn: linkedin.com/in/dipali-mali-260974262  
+💻 CodeChef: codechef.com/users/dipalimali2103  
+
+---
+
+<p align="center">
+⭐ Discipline • Consistency • Continuous Growth
+</p>
