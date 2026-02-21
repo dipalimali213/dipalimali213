@@ -6,7 +6,7 @@
 
 <p align="center">
 💼 Open to Full-Time Roles | Data Analytics | Java Backend Development <br>
-🎓 B.Tech Computer Science (Data Science) | CGPA: 8.28 <br>
+🎓 B.Tech Computer Science & Engineering (Data Science) | CGPA: 8.28 <br>
 📍 Maharashtra, India <br>
 🏆 3000+ Coding Problems Solved
 </p>
@@ -17,7 +17,7 @@
 
 ---
 
-# 👩‍💼 Professional Profile
+# 👩‍💼 Professional Summary
 
 Results-driven Computer Science Engineer specializing in:
 
@@ -25,13 +25,13 @@ Results-driven Computer Science Engineer specializing in:
 - ⚙ Scalable Java Backend Systems  
 - 🤖 Applied Machine Learning & AI Solutions  
 
-Strong foundation in database optimization, backend architecture design, and intelligent data processing.
+Strong foundation in SQL optimization, backend architecture design, and intelligent data processing.
 
-Focused on delivering clean, efficient, and production-ready solutions.
+Committed to building clean, efficient, and production-ready solutions.
 
 ---
 
-# 🎯 Core Competencies
+# 🎯 Core Expertise
 
 ## 📊 Data Analytics & Intelligence
 
@@ -39,7 +39,7 @@ Focused on delivering clean, efficient, and production-ready solutions.
 ✔ Data Cleaning, Transformation & ETL  
 ✔ Statistical Analysis & Predictive Modeling  
 ✔ Tableau Dashboard Development  
-✔ KPI & Business Performance Analysis  
+✔ KPI & Business Performance Analytics  
 ✔ Insight-Driven Decision Support  
 
 ---
@@ -67,6 +67,7 @@ Focused on delivering clean, efficient, and production-ready solutions.
 ### 🗄 Databases & Querying
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PLSQL-336791?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
@@ -75,22 +76,32 @@ Focused on delivering clean, efficient, and production-ready solutions.
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+### 🌐 Web Technologies
+![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🎨 SAR Image Colorization (Deep Learning)
-Developed a CNN-based model for grayscale-to-color transformation, improving image interpretability for remote sensing analysis.
+CNN-based grayscale-to-color transformation model improving interpretability of satellite imagery.
 
 ### 🔥 Real-Time Fire Detection System
-Designed an AI-based computer vision system for real-time hazard detection using OpenCV.
+AI-powered computer vision system for real-time hazard detection using OpenCV.
 
 ### 👵 SeniorCare – Elderly Care Management System
-Built a full-stack MVC-based web application with authentication, appointment scheduling, and database integration.
+Full-stack MVC-based web application with authentication, appointment scheduling & database integration.
 
 ### 🏦 Banking System Database
-Implemented a normalized relational database system demonstrating stored procedures, indexing, and schema optimization.
+Relational database implementation demonstrating normalization, stored procedures, and schema optimization.
 
 ---
 
@@ -99,7 +110,7 @@ Implemented a normalized relational database system demonstrating stored procedu
 ### 🏢 Wipro – TalentNext | Database Expert
 - Advanced SQL & PL/SQL exposure  
 - Enterprise-level RDBMS handling  
-- Query tuning & optimization  
+- Query tuning & performance optimization  
 
 ### 🏢 Infosys Pragati | Data Science Trainee
 - Applied ML algorithms to business problems  
@@ -112,13 +123,19 @@ Implemented a normalized relational database system demonstrating stored procedu
 
 ---
 
-# 📊 GitHub Insights
-
-
-
+# 📊 GitHub Performance Dashboard
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dipalimali213&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dipalimali213&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=dipalimali213&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipalimali213&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipalimali213&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -126,7 +143,7 @@ Implemented a normalized relational database system demonstrating stored procedu
 # 🏆 Achievements
 
 - 🥇 3000+ Coding Problems Solved  
-- 📜 Professional Certification Exposure  
+- 📜 Zensar ESD Certification  
 - 🇯🇵 JLPT N5 Certified  
 - ☁ Cloud & AI Learning Track  
 
@@ -134,9 +151,9 @@ Implemented a normalized relational database system demonstrating stored procedu
 
 # 📫 Connect With Me
 
-📧 dipalimali213@gmail.com  
-🔗 LinkedIn: linkedin.com/in/dipali-mali-260974262  
-💻 CodeChef: codechef.com/users/dipalimali2103  
+📧 Email: dipalimali213@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/dipali-mali-260974262  
+💻 CodeChef: https://codechef.com/users/dipalimali2103  
 
 ---
 
